@@ -1,0 +1,8 @@
+*.pyc
+.settings
+.project
+.pydevproject
+uploaded/*
+!.gitkeep
+.DS_Store
+.idea/*
